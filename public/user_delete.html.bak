@@ -1,0 +1,6 @@
+<h2>删除用户</h2>
+<form method='get' action='/user/delete'>
+	页码：<input type="text" name="pno"><br>
+	大小：<input type="text" name="size"><br>
+	<input type="submit">
+</form>
